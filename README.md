@@ -158,6 +158,7 @@ The application is built using a modular architecture that separates concerns ac
 ## 🤝 Contribution
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
+
 ![Kassem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KassemAlKassem&theme=radical&hide_border=true)
 
 ---
