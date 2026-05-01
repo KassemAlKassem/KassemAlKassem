@@ -27,7 +27,7 @@ Currently expanding into AI-powered applications and full-stack development to b
 
 ---
 
-### 🌐 [ImpactFlow AI](https://github.com/KassemAlKassem/Humanitarian-Development-Peace)
+### 🌐 Humanitarian-Development-Peace
 > **AI-Powered Data Orchestration Platform for the HDP Nexus**
 
 **Aim:** Eliminate the "Efficiency Tax" in International NGOs — where up to 40% of staff time is lost in manual reporting and data handling. ImpactFlow AI acts as an intelligent translation layer between raw field data (KoboToolbox, ODK, Excel) and standardized donor reporting systems (USAID, UNHCR, EU ECHO).
